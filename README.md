@@ -1,9 +1,10 @@
-### Hi there! 👋 I'm Edmund.
+### Hi there! 👋
 <!-- description-start -->
+I'm Edmund
 
 Full Stack Software Engineer and Motion Picture Studio Mechanics Electrician. 
 
-I'm obsessed with the cycle of learning and creation. I want to master my craft in order to propel humanity forward.
+I'm obsessed with the cycle of learning and creation! I want to master my craft in order to propel humanity forward!
 <!-- description-end -->
 
 <!-- aboutme-list-start -->
