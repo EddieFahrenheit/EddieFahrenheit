@@ -8,7 +8,7 @@ I'm obsessed with the cycle of learning and creation! I want to master my craft 
 <!-- description-end -->
 
 <!-- aboutme-list-start -->
-- Location: Brookyln, NY
+- Location: NY, NY
 - Nationality: US Citizen of Chinese descent
 - Study: Fullstack Academy
 - Interests: Engineering, Volleyball, Nutrition, Cooking, and Saving the Planet! <!-- aboutme-list-end -->
@@ -18,7 +18,7 @@ I'm obsessed with the cycle of learning and creation! I want to master my craft 
 
 ### Skills
 <!-- skills-start -->
-- Infrastructure: AWS/EC2: 5/10, NGINX: 5/10, Docker: 5/10
+- Infrastructure: AWS/EC2: 3/10, NGINX: 3/10, Docker: 3/10
 - Languages: TypeScript: 8/10, JavaScript: 8/10, SQL: 5/10, Python: 2/10, Java: 2/10
 - Backend: Node: 7/10, Next: 7/10, Express: 7/10, Prisma: 7/10, Sequelize: 7/10, PostgreSQL: 7/10
 - Frontend: React: 7/10, NextJS: 7/10, Redux: 7/10, TailwindCSS: 5/10
