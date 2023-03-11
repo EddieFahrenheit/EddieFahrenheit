@@ -11,7 +11,7 @@ I'm obsessed with the cycle of learning and creation! I want to master my craft 
 - Location: NY, NY
 - Nationality: US Citizen of Chinese descent
 - Study: Fullstack Academy
-- Interests: Engineering, Volleyball, Nutrition, Cooking, and Saving the Planet! <!-- aboutme-list-end -->
+- Interests: Engineering, Volleyball, Nutrition, and Cooking! <!-- aboutme-list-end -->
 - Reach out by email! mailto:fischerprogram@gmail.com
 - Or any of these below
 
