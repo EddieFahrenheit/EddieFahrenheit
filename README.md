@@ -9,7 +9,7 @@ Contact me with interesting project ideas! I'd love to hear it out and take part
 <!-- description-end -->
 
 <!-- aboutme-list-start -->
-- Location: NY, NY
+- Location: Brooklyn, NY
 - Nationality: US Citizen of Chinese descent
 - Study: Fullstack Academy
 - Interests: Volleyball, Nutrition, and Cooking! <!-- aboutme-list-end -->
