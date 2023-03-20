@@ -10,7 +10,7 @@ Contact me with interesting project ideas! I'd love to hear it out and take part
 
 <!-- aboutme-list-start -->
 - Location: Brooklyn, NY
-- Nationality: US Citizen of Chinese descent
+- Nationality: US Citizen
 - Study: Fullstack Academy
 - Interests: Volleyball, Nutrition, and Cooking! <!-- aboutme-list-end -->
 - Reach out with any of these below!
@@ -19,7 +19,7 @@ Contact me with interesting project ideas! I'd love to hear it out and take part
 
 ### Skills
 <!-- skills-start -->
-- Infrastructure: AWS EC2: 5/10, NGINX: 3/10, Docker: 7/10
+- Infrastructure: AWS EC2: 5/10, NGINX: 3/10, Docker: 7/10, Compose/Kubernetes: 2/10
 - Languages: TypeScript: 8/10, JavaScript: 8/10, SQL: 5/10, Python: 2/10, Java: 2/10
 - Backend: Express: 7/10, Prisma: 7/10, Sequelize: 7/10, PostgreSQL: 7/10
 - Frontend: React: 7/10, NextJS: 7/10, Redux: 7/10, TailwindCSS: 5/10, Material UI: 5/10
