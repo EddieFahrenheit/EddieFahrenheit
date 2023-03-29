@@ -2,7 +2,7 @@
 <!-- description-start -->
 I'm Edmund
 
-Full Stack Software Engineer and Motion Picture Studio Electrician. 
+Software Engineer and Motion Picture Studio Electrician. 
 
 I'm obsessed with the cycle of learning and creation! I want to master my craft in order to propel humanity forward!
 Contact me with interesting project ideas! I'd love to hear it out and take part.
