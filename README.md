@@ -12,8 +12,8 @@ Contact me with interesting project ideas! I'd love to hear it out and take part
 - Location: Brooklyn, NY
 - Nationality: US Citizen
 - Study: Fullstack Academy
-- Interests: Volleyball, Nutrition, and Cooking! <!-- aboutme-list-end -->
-- Reach out with any of these below!
+- Interests: Volleyball, Nutrition, and Cooking <!-- aboutme-list-end -->
+- Reach out with any of these below
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/eddiefahrenheit) [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eddiefahrenheit/) [![gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fischerprogram@gmail.com) [![website](https://img.shields.io/badge/Blog-4d1a7f?style=for-the-badge&logo=Portfolio&logoColor=white)](https://eddiefahrenheit.com/)
 
