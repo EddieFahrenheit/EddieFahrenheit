@@ -2,7 +2,7 @@
 <!-- description-start -->
 I'm Edmund
 
-Full Stack Software Engineer and Motion Picture Studio Mechanics Electrician. 
+Full Stack Software Engineer and Motion Picture Studio Electrician. 
 
 I'm obsessed with the cycle of learning and creation! I want to master my craft in order to propel humanity forward!
 Contact me with interesting project ideas! I'd love to hear it out and take part.
@@ -19,7 +19,7 @@ Contact me with interesting project ideas! I'd love to hear it out and take part
 
 ### Skills
 <!-- skills-start -->
-- Infrastructure: AWS EC2: 5/10, NGINX: 3/10, Docker: 7/10, Compose/Kubernetes: 2/10
+- Infrastructure: AWS EC2: 6/10, NGINX: 4/10, Docker: 7/10, Compose: 5/10
 - Languages: TypeScript: 8/10, JavaScript: 8/10, SQL: 5/10, Python: 2/10, Java: 2/10
 - Backend: Express: 7/10, Prisma: 7/10, Sequelize: 7/10, PostgreSQL: 7/10
 - Frontend: React: 7/10, NextJS: 7/10, Redux: 7/10, TailwindCSS: 5/10, Material UI: 5/10
