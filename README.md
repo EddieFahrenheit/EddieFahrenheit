@@ -2,18 +2,18 @@
 <!-- description-start -->
 I'm Edmund
 
-Software Engineer and Motion Picture Studio Electrician. 
+Software Engineer and DMX Programmer for Motion Picture Studios. 
 
-I'm obsessed with the cycle of learning and creation. I want to master my craft in order to propel humanity forward!
+I'm obsessed with the cycle of learning and creation. I want to master my craft as an engineer and build projects with permanent impact!
 
-Contact me with interesting project ideas! I'd love to hear it out and take part.
+Contact me with interesting ideas! I'd love to hear it out and take part.
 <!-- description-end -->
 
 <!-- aboutme-list-start -->
 - Location: Brooklyn, NY
 - Nationality: US Citizen
 - Study: Fullstack Academy
-- Interests: Volleyball, Nutrition, Psychology, and History <!-- aboutme-list-end -->
+- Interests: Volleyball, Pickleball and Spikeball <!-- aboutme-list-end -->
 - Reach out with any of these below
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/eddiefahrenheit) [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eddiefahrenheit/) [![gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fischerprogram@gmail.com) [![website](https://img.shields.io/badge/Blog-4d1a7f?style=for-the-badge&logo=Portfolio&logoColor=white)](https://eddiefahrenheit.com/)
