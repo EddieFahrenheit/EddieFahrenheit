@@ -21,8 +21,8 @@ Contact me with interesting ideas! I'd love to hear it out and take part.
 ### Skills
 <!-- skills-start -->
 - Infrastructure: AWS EC2: 6/10, NGINX: 4/10, Docker: 7/10, Compose: 5/10
-- Languages: TypeScript: 8/10, JavaScript: 8/10, SQL: 5/10, Python: 2/10, Java: 2/10
-- Backend: Express: 7/10, Prisma: 7/10, Sequelize: 7/10, PostgreSQL: 7/10
+- Languages: TypeScript: 8/10, JavaScript: 8/10, SQL: 5/10, Python: 5/10, Java: 2/10
+- Backend: Express: 7/10, Prisma: 7/10, FastAPI: 5/10, PyTorch: 5/10, PostgreSQL: 7/10
 - Frontend: React: 7/10, NextJS: 7/10, Redux: 7/10, TailwindCSS: 5/10, Material UI: 5/10
-- Tools: Vim, VSCode, Git, Linux, Mac, Windows
+- Tools: VSCode: 8/10, Vim: 2/10, Git: 8/10, Linux, Mac, Windows
 <!-- skills-end -->
