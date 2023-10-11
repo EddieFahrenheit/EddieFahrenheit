@@ -24,5 +24,5 @@ Contact me with interesting ideas! I'd love to hear it out and take part.
 - Languages: TypeScript: 8/10, JavaScript: 8/10, SQL: 5/10, Python: 5/10, Java: 2/10
 - Backend: Express: 7/10, Prisma: 7/10, FastAPI: 5/10, PyTorch: 5/10, PostgreSQL: 7/10
 - Frontend: React: 7/10, NextJS: 7/10, Redux: 7/10, TailwindCSS: 5/10, Material UI: 5/10
-- Tools: VSCode: 8/10, Vim: 2/10, Git: 8/10, Conda: 5/10, Linux, Mac, Windows
+- Tools: Figma, VSCode: 8/10, Vim: 2/10, Git: 8/10, Conda: 5/10, Linux, Mac, Windows
 <!-- skills-end -->
