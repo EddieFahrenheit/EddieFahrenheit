@@ -10,9 +10,9 @@ Contact me with interesting ideas! I'd love to hear it out and take part.
 <!-- description-end -->
 
 <!-- aboutme-list-start -->
-- Location: Brooklyn, NY
+- Location: New York, NY
 - Nationality: US Citizen
-- Study: Fullstack Academy
+- Study: Grove School of Engineering
 - Interests: Volleyball, Pickleball and Spikeball <!-- aboutme-list-end -->
 - Reach out with any of these below
 
@@ -20,9 +20,9 @@ Contact me with interesting ideas! I'd love to hear it out and take part.
 
 ### Skills
 <!-- skills-start -->
-- Infrastructure: AWS EC2: 6/10, NGINX: 4/10, Docker: 7/10, Compose: 5/10
-- Languages: TypeScript: 8/10, JavaScript: 8/10, SQL: 5/10, Python: 5/10, Java: 2/10
-- Backend: Express: 7/10, Prisma: 8/10, Sequelize: 8/10, FastAPI: 5/10, PyTorch: 5/10, PostgreSQL: 7/10
-- Frontend: React: 7/10, NextJS: 7/10, Redux: 7/10, TailwindCSS: 5/10, Material UI: 5/10
-- Tools: Figma, VSCode: 8/10, Vim: 2/10, Git: 8/10, Conda: 5/10, Linux, Mac, Windows
+- Infrastructure: AWS EC2: 7/10, NGINX: 6/10, Docker: 8/10, Compose: 8/10, Vercel: 8/10, Supabase: 7/10, Heroku: 7/10
+- Languages: TypeScript: 8/10, JavaScript: 8/10, SQL: 7/10, Python: 7/10, Java: 2/10, Humor: 0/10
+- Backend: Node: 8/10, Express: 7/10, Prisma: 8/10, Sequelize: 8/10, FastAPI: 5/10, Flask: 5/10, PostgreSQL: 7/10, OAuth: 7/10
+- Frontend: React: 7/10, Next.js: 7/10, Redux: 7/10, TailwindCSS: 5/10, Material UI: 5/10, NextAuth: 7/10
+- Tools: Figma: 7/10, VSCode: 8/10, Vim: 2/10, Git: 8/10, Anaconda: 5/10, Poetry: 7/10, Linux: 5/10, Jira: 8/10, Confluence: 8/10
 <!-- skills-end -->
