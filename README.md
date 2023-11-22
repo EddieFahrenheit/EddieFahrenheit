@@ -21,7 +21,7 @@ Contact me with interesting ideas! I'd love to hear it out and take part.
 ### Skills
 <!-- skills-start -->
 - Languages:  Python: 8/10, JavaScript: 9/10, SQL: 7/10, Java: 2/10, Matlab: 2/10, Humor: 0/10
-- Infrastructure: AWS: 7/10, NGINX: 6/10, Docker: 8/10, Compose: 8/10, Vercel: 8/10, Supabase: 7/10, Heroku: 7/10
+- Infrastructure: AWS: 7/10, NGINX: 6/10, Docker: 8/10, Compose: 8/10, Vercel, Supabase, Heroku
 - Python Libraries: LangChain: 7/10, HuggingFace: 7/10, PyTorch: 6/10, FastAPI: 8/10, Flask: 8/10,
 - Backend: ChromaDB: 7/10, OpenAI: 7/10, Node: 9/10, Express: 8/10, Prisma: 8/10, Sequelize: 8/10, PostgreSQL: 7/10, OAuth: 7/10
 - Frontend: React: 8/10, Next.js: 9/10, Redux: 7/10, TailwindCSS: 7/10, Material UI, NextAuth: 7/10, HTML: 9/10, CSS: 8/10
