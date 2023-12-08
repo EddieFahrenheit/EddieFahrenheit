@@ -2,11 +2,10 @@
 <!-- description-start -->
 I'm Edmund
 
-Full Stack AI Software Engineer and DMX Programmer for Motion Picture Studios
+I'm a New York-based software engineer experienced in building AI-based web applications.
+Currently an engineer for an internationally-based AI startup working on cutting edge technology that will forever change the world as we know it.
+My ultimate goal is to utilize artificial intelligence to improve human lives globally.
 
-I'm obsessed with the cycle of learning and creation. I want to master my craft as an engineer and build projects with permanent impact!
-
-Contact me with interesting ideas! I'd love to hear it out and take part.
 <!-- description-end -->
 
 <!-- aboutme-list-start -->
@@ -20,11 +19,16 @@ Contact me with interesting ideas! I'd love to hear it out and take part.
 
 ### Skills
 <!-- skills-start -->
-- Languages:  Python: 8/10, JavaScript: 9/10, SQL: 7/10, Java: 2/10, Matlab: 2/10, Humor: 0/10
-- Infrastructure: AWS: 7/10, NGINX: 6/10, Docker: 8/10, Compose: 8/10, Vercel, Supabase, Heroku
-- Python Libraries: LangChain: 7/10, HuggingFace: 7/10, PyTorch: 6/10, FastAPI: 8/10, Flask: 8/10,
-- Backend: ChromaDB: 7/10, OpenAI: 7/10, Node: 9/10, Express: 8/10, Prisma: 8/10, Sequelize: 8/10, PostgreSQL: 7/10, OAuth: 7/10
-- Frontend: React: 8/10, Next.js: 9/10, Redux: 7/10, TailwindCSS: 7/10, Material UI, NextAuth: 7/10, HTML: 9/10, CSS: 8/10
-- Team Management: Github, Jira, Confluence, Slack, Agile, Scrum, Kanban, Trello, Figjam
-- Tools: TypeScript: 8/10, Figma: 7/10, VSCode, Vim: 2/10, Git, Anaconda, Poetry, Linux
+- Languages:  Python: 8/10, JavaScript: 9/10, Typescript: 8/10, SQL: 7/10, Java: 2/10, HTML, CSS, Humor: 0/10
+- AI/LLM: Pandas, NumPy, Scikit-learn, PyTorch, LangChain, LlamaIndex, Unstructured, OpenAI
+- Other Python Libs/Frameworks: FastAPI, Flask, Discord.py, SQLAlchemy, Alembic, Pydantic
+- Javascript Libs + Frontend: Next.js, Typescript, React, Redux, React Native, Express, Prisma, Tailwindcss
+- Database: PostgreSQL, MySQL, ChromaDB, Milvus, Qdrant, Pinecone
+- Infrastructure: AWS: 7/10, NGINX: 6/10, Docker: 8/10, Kubernetes: 4/10, Vercel: 7/10, Supabase: 8/10, Heroku
+- Team Management: Github, Jira, Confluence, Trello, Agile, Scrum, Kanban
+- Tools: Figma: 7/10, VSCode, Vim: 2/10, Git, Anaconda, Poetry, Linux
+- Testing Frameworks: Mocha, Chai, Sinon, Jest, Cypress, Pytest
+
+Tools: 
+
 <!-- skills-end -->
