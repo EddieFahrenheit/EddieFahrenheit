@@ -3,7 +3,9 @@
 I'm Edmund
 
 I'm a New York-based software engineer experienced in building AI-based web applications.
+
 Currently an engineer for an internationally-based AI startup working on cutting edge technology that will forever change the world as we know it.
+
 My ultimate goal is to utilize artificial intelligence to improve human lives globally.
 
 <!-- description-end -->
