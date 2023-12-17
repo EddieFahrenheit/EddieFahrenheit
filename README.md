@@ -2,11 +2,9 @@
 <!-- description-start -->
 I'm Edmund
 
-I'm a New York-based software engineer experienced in building AI-based web applications.
+I currently work for an AI startup based on the Camel paper, well known for being the original proposer of multi-agent systems to divide and conquer complex tasks that foundation models like GPT4 or Llama 2 can't solve alone.
 
-Currently an engineer for an internationally-based AI startup working on cutting edge technology that will forever change the world as we know it.
-
-My ultimate goal is to utilize artificial intelligence to improve human lives globally.
+My ultimate goal is to utilize artificial intelligence to globally improve human lives.
 
 <!-- description-end -->
 
