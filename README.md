@@ -2,7 +2,7 @@
 <!-- description-start -->
 I'm Edmund
 
-I currently work for an AI startup based on the Camel paper, well known for being the original proposer of multi-agent systems to divide and conquer complex tasks that foundation models like GPT4 or Llama 2 can't solve alone.
+Founding engineer at an AI startup based on the CAMEL paper, proposer of multi-agent systems to divide and conquer complex tasks that foundation models(GPT4/Llama2) can't solve alone.
 
 My ultimate goal is to utilize artificial intelligence to globally improve human lives.
 
