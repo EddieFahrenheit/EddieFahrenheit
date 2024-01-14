@@ -2,7 +2,7 @@
 <!-- description-start -->
 I'm Edmund
 
-Founding engineer at an AI startup based on the CAMEL paper, proposer of multi-agent systems to divide and conquer complex tasks that foundation models(GPT4/Llama2) can't solve alone.
+Full stack engineer at an AI startup based on the CAMEL paper, proposer of multi-agent systems to divide and conquer complex tasks that foundation models(GPT4/Llama2) can't solve alone.
 
 My ultimate goal is to utilize artificial intelligence to globally improve human lives.
 
