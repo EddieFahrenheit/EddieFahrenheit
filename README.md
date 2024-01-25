@@ -20,7 +20,7 @@ My ultimate goal is to utilize artificial intelligence to globally improve human
 ### Skills
 <!-- skills-start -->
 - Languages:  Python: 8/10, JavaScript: 8/10, Typescript: 8/10, SQL: 7/10, HTML: 7/10, CSS: 7/10, Java: 2/10, Humor: 0/10
-- AI/LLM: Pandas: 5/10, NumPy: 5/10, Scikit-learn: 5/10, PyTorch: 3/10, Unstructured: 5/10, OpenAI: 6/10
+- Data/AI: Pandas: 5/10, NumPy: 5/10, Scikit-learn: 5/10, PyTorch: 3/10, Unstructured: 5/10, OpenAI: 6/10
 - Other Python Libs/Frameworks: FastAPI: 7/10, Flask: 4/10, Discord.py: 5/10, SQLAlchemy: 5/10, Pydantic: 5/10
 - Javascript Libs/Frameworks: Next.js: 6/10, React: 6/10, Redux: 4/10, React Native: 3/10, Express: 5/10, Prisma: 5/10, Tailwindcss: 5/10
 - Database: RDBMS/PostgreSQL: 7/10, Vector Database/Qdrant: 3/10, In-Memory DB/Redis: 2/10
