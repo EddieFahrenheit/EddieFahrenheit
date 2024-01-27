@@ -2,7 +2,11 @@
 <!-- description-start -->
 I'm Edmund
 
-Full stack engineer at an AI startup based on the [CAMEL paper](https://arxiv.org/abs/2303.17760), proposer of multi-agent systems to divide and conquer complex tasks that foundation models(GPT4/Llama2) can't solve alone.
+Currently an engineer for an AI startup based on the CAMEL paper, proposing multi-agent systems to:
+
+1. Break down complex prompts into simple ones that can be solved individually by specially-trained LLMs (Agents)
+
+2. Simulate and learn from dialogue/scenarios involving 2+ agents (Game theory)
 
 My ultimate goal is to use artificial intelligence to close the global education gap.
 Regardless of the circumstances of your birth, everyone deserves the ability to gain world-class knowledge.
