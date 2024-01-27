@@ -10,6 +10,7 @@ Currently an engineer for an AI startup based on the [CAMEL paper](https://arxiv
 
 My ultimate goal is to use artificial intelligence to close the global education gap.
 Regardless of the circumstances of your birth, everyone deserves the ability to gain world-class knowledge.
+
 We claim ourselves to be in the information age, yet the internet is the center of both accidental and purposeful misinformation.
 The future of knowledge transfer is in agents.
 
