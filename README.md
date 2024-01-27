@@ -2,7 +2,7 @@
 <!-- description-start -->
 I'm Edmund
 
-Currently an engineer for an AI startup based on the CAMEL paper, proposing multi-agent systems to:
+Currently an engineer for an AI startup based on the [CAMEL paper](https://arxiv.org/abs/2303.17760), proposing multi-agent systems to:
 
 1. Break down complex prompts into simple ones that can be solved individually by specially-trained LLMs (Agents)
 
