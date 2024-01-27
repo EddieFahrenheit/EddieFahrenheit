@@ -4,14 +4,16 @@ I'm Edmund
 
 Full stack engineer at an AI startup based on the [CAMEL paper](https://arxiv.org/abs/2303.17760), proposer of multi-agent systems to divide and conquer complex tasks that foundation models(GPT4/Llama2) can't solve alone.
 
-My ultimate goal is to utilize artificial intelligence to globally improve human lives.
+My ultimate goal is to use artificial intelligence to close the global education gap.
+Regardless of the circumstances of your birth, everyone deserves the ability to gain world-class knowledge.
+We claim ourselves to be in the information age, yet the internet is the center of both accidental and purposeful misinformation.
+The future of knowledge transfer is in agents.
 
 <!-- description-end -->
 
 <!-- aboutme-list-start -->
 - Location: New York, NY
 - Nationality: US Citizen
-- Study: Grove School of Engineering
 - Interests: Volleyball, Pickleball and Spikeball <!-- aboutme-list-end -->
 - Reach out with any of these below
 
