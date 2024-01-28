@@ -1,6 +1,6 @@
 ### Hi there! 👋
 <!-- description-start -->
-Artificial intelligence can close the global education gap.
+Artificial intelligence can close the global education gap.  
 Regardless of the circumstances of your birth, everyone deserves a shot at gaining world-class knowledge.
 
 I'm Edmund
