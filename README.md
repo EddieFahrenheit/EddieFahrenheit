@@ -3,12 +3,10 @@
 Artificial intelligence can close the global education gap.  
 Regardless of the circumstances of your birth, everyone deserves a shot at gaining world-class knowledge.
 
-I'm Edmund
-
+I'm Edmund  
 Currently an engineer for an AI startup based on the [CAMEL paper](https://arxiv.org/abs/2303.17760), proposing multi-agent systems to:
 
-1. Break down complex prompts into simple ones that can be solved individually by specially-trained LLMs (Agents)
-
+1. Break down complex prompts into simple ones that can be solved individually by specially-trained LLMs (Agents)  
 2. Simulate and learn from dialogue/scenarios involving 2+ agents (Game theory)
 <!-- description-end -->
 
