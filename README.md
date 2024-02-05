@@ -1,6 +1,6 @@
 ### Artificial intelligence can close the global education gap. 
 <!-- description-start -->
-Regardless of the circumstances of your birth, everyone deserves a shot at gaining world-class knowledge.
+Regardless of circumstances of your birth, everyone deserves a shot at gaining world-class knowledge.
 
 I'm Edmund  
 Currently an engineer for an AI startup based on the [CAMEL paper](https://arxiv.org/abs/2303.17760), proposing multi-agent systems to:
