@@ -24,6 +24,6 @@ Currently an engineer for an AI startup based on the [CAMEL paper](https://arxiv
 - Python: FastAPI, Discord.py, SQLAlchemy, Unstructured, OpenAI
 - Javascript: Next.js, React, Redux, React Native, Express, Prisma
 - Database: RDBMS/PostgreSQL, Vector Database/Qdrant, In-Memory DB/Redis
-- Infrastructure: AWS, GCP, Docker, Kubernetes, Terraform, Vercel/Heroku/Railway/Fly/Render
+- Infrastructure: AWS(EC2, Redshift, S3), GCP(Compute Engine, Storage Buckets, BigQuery), Docker, Kubernetes, Terraform, Vercel/Heroku/Railway/Fly/Render
 - Tools: Git, Github, Anaconda, Poetry, Figma
 <!-- skills-end -->
